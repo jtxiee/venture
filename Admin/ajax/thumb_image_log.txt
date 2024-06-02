@@ -1,0 +1,48 @@
+Array
+(
+    [image_id] => 27
+    [room_id] => 16
+    [thumb_image] => 
+)
+
+pre_res: 0, res: 1
+Array
+(
+    [image_id] => 29
+    [room_id] => 17
+    [thumb_image] => 
+)
+
+pre_res: 0, res: 1
+Array
+(
+    [image_id] => 31
+    [room_id] => 18
+    [thumb_image] => 
+)
+
+pre_res: 0, res: 1
+Array
+(
+    [image_id] => 8
+    [tour_id] => 10
+    [thumb_image] => 
+)
+
+pre_res: 0, res: 1
+Array
+(
+    [image_id] => 10
+    [tour_id] => 9
+    [thumb_image] => 
+)
+
+pre_res: 0, res: 1
+Array
+(
+    [image_id] => 12
+    [tour_id] => 11
+    [thumb_image] => 
+)
+
+pre_res: 0, res: 1
