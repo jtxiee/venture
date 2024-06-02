@@ -1,22 +1,21 @@
 <?php
-    //Frontend purpose data
-    define('SITE_URL','http://127.0.0.1/venture/');
-    define('ABOUT_IMG_PATH',SITE_URL.'Images/about/');
-    define('CAROUSEL_IMG_PATH',SITE_URL.'Images/carousel/');
-    define('FACILITIES_IMG_PATH',SITE_URL.'Images/facilities/');
-    define('ROOMS_IMG_PATH',SITE_URL.'Images/rooms/');
-    define('USERS_IMG_PATH',SITE_URL.'Images/users/');
-    define('TOURS_IMG_PATH',SITE_URL.'Images/tours/');
+    // Frontend purpose data
+    define('SITE_URL', 'http://venture.byethost3.com/');
+    define('ABOUT_IMG_PATH', SITE_URL . 'Images/about/');
+    define('CAROUSEL_IMG_PATH', SITE_URL . 'Images/carousel/');
+    define('FACILITIES_IMG_PATH', SITE_URL . 'Images/facilities/');
+    define('ROOMS_IMG_PATH', SITE_URL . 'Images/rooms/');
+    define('USERS_IMG_PATH', SITE_URL . 'Images/users/');
+    define('TOURS_IMG_PATH', SITE_URL . 'Images/tours/');
 
-
-    //backend upload  process needs this data
-    define('UPLOAD_IMAGE_PATH',$_SERVER['DOCUMENT_ROOT'].'/venture/images/');
-    define('ABOUT_FOLDER','about/');
-    define('CAROUSEL_FOLDER','carousel/');
-    define('FACILITIES_FOLDER','facilities/');
-    define('ROOMS_FOLDER','rooms/');
-    define('USERS_FOLDER','users/');
-    define('TOURS_FOLDER','tours/');
+    // Backend upload process needs this data
+    define('UPLOAD_IMAGE_PATH', $_SERVER['DOCUMENT_ROOT'] . '/Images/');
+    define('ABOUT_FOLDER', 'about/');
+    define('CAROUSEL_FOLDER', 'carousel/');
+    define('FACILITIES_FOLDER', 'facilities/');
+    define('ROOMS_FOLDER', 'rooms/');
+    define('USERS_FOLDER', 'users/');
+    define('TOURS_FOLDER', 'tours/');
 
     //sendgrid api key
     define('SENDGRID_API_KEY',"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");

@@ -1,8 +1,8 @@
 <?php
-$hname = 'localhost';
-$uname = 'root';
-$pass = '';
-$db = 'venture';
+$hname = 'sql207.byethost3.com';
+$uname = 'b3_36605576';
+$pass = 'quocvip2002';
+$db = 'b3_36605576_venture';
 
 $con = mysqli_connect($hname, $uname, $pass, $db);
 if (!$con) {
